@@ -99,12 +99,12 @@ export default {
           "status": "start"
         },
         {
-      "mission_slug": "0012,
+      "mission_slug": "002,
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
+          "slug": "002",
           "name": "Beast Tamer",
           "status": "start"
         },
