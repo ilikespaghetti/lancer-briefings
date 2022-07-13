@@ -96,18 +96,12 @@ export default {
         {
           "slug": "001",
           "name": "Sterilization",
-          "status": "start"
-        },
-        {
-      "mission_slug": "002,
-      "current_md": "",
-      "events": "",
-      "missions": [
-        {
+          "status": "start",
           "slug": "002",
           "name": "Beast Tamer",
           "status": "start"
         },
+        
       ],
       "pilots": [
         {
