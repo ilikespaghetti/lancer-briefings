@@ -97,6 +97,8 @@ export default {
           "slug": "001",
           "name": "Sterilization",
           "status": "start",
+          },
+          {
           "slug": "002",
           "name": "Beast Tamer",
           "status": "start"
