@@ -6,7 +6,7 @@
 
 //Primary Colors
 $primary: rgba(255, 255, 255, 1);
-$secondary: rgba(0, 0, 0, 8);
+$secondary: rgba(0, 0, 0, 0.7);
 $highlight-hover: rgba(255, 255, 255, 0.3);
 $highlight-active: rgba(255, 255, 255, 0.1);
 
@@ -15,7 +15,7 @@ $text-headers: rgba(255, 255, 255, 1);
 $text-location: rgba(255, 255, 255, 1);
 
 //Location Information
-$location-separator: rgba(255, 255, 255, 0.24);
+$location-separator: rgba(255, 0, 255, 1);
 
 //Mission Pane
 $text-mission-title: rgba(255, 255, 255, 0.67);
@@ -31,9 +31,9 @@ $text-pilot-value: rgba(255, 228, 43, 1);
 $text-pilot-code: rgba(135, 135, 135, 0.46);
 
 //Markdown (Current Assignment, Events Log, Pilot Biography)
-$text-markdown-p: rgba(0, 255, 0, 1);
-$text-markdown-h1: rgba(255, 0, 0, 1);
-$text-markdown-h2: rgba(0, 0, 255, 1);
+$text-markdown-p: rgba(255, 255, 255, 1);
+$text-markdown-h1: rgba(255, 255, 255, 1);
+$text-markdown-h2: rgba(255, 255, 255, 1);
 
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;600;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
