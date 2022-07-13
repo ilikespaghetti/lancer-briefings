@@ -148,7 +148,7 @@ export default {
         "gate": "CLASSIFIED",
         "ring": "CLASSIFIED",
         "headerTitle": "Smith-Shimano Corpro",
-        "headerSubtitle": ""You Only Need One"",
+        "headerSubtitle": "You Only Need One",
         "subheaderTitle": "Materials Acquisition Team",
         "subheaderSubtitle": "Mike-Oscar-Oscar-November-Lima-India-Golf-Hotel-Tango",
       },
